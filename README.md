@@ -13,8 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BERLINx03&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BERLINx03&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BERLINx03&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BERLINx03&icon=0&color=12)](https://visitcount.itsvg.in)
