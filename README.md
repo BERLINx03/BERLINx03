@@ -1,4 +1,5 @@
-- # 💫 About Me:
+<div align="center">
+# 💫 About Me:
 👋 Hi, I’m Abdallah <br> 🔭 I’m currently working on basics <br>🌱 I’m currently learning android<br>
 
 
