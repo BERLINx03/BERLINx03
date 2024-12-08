@@ -11,13 +11,14 @@
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=BERLINx03&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 300px;">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Keep Going" style="width: 200px; height: auto;">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Keep Going" style="width: 300px; height: auto;">
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BERLINx03&theme=transparent&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BERLINx03&theme=transparent&hide_border=true" alt="GitHub Streak Stats" style="width: 300px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BERLINx03&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
+
 
 
 
