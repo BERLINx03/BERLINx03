@@ -1,10 +1,10 @@
 # 💫 About Me:
 <div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Error Gif" style="width: 150px; height: auto; margin-left: 20px;">
   <div>
     👋 Hi, I’m Abdallah<br>
     🔭 I’m currently learning Android SDK and DSA<br>
   </div>
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Error Gif" style="width: 150px; height: auto; margin-left: 20px;">
 </div>
 
 <div align="center">
