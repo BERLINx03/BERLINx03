@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m Abdallah<br>🔭 I’m currently learning Android SDK and DSA<br>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    👋 Hi, I’m Abdallah<br>
+    🔭 I’m currently working on basics and learning android<br>
+  </div>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Keep Going" style="width: 150px; height: auto;">
+</div> currently learning Android SDK and DSA<br>
 
 <div align="center">
 
@@ -11,7 +17,6 @@
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=BERLINx03&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 300px; height: auto;">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Keep Going" style="width: 300px; height: auto;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BERLINx03&theme=transparent&hide_border=true" alt="GitHub Streak Stats" style="width: 300px; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BERLINx03&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 300px; height: auto;">
 </div>
