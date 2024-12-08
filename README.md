@@ -1,11 +1,15 @@
 # 💫 About Me:
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    👋 Hi, I’m Abdallah<br>
-    📚 I'm currently learning Android SDK and DSA<br>
-  </div>
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Keep Going" style="width: 200px; height: auto;">
-</div>
+<table>
+  <tr>
+    <td>
+      👋 Hi, I’m Abdallah<br>
+      📚 I’m currently learning Android SDK and DSA<br>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Keep Going" style="width: 200px; height: auto;">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
