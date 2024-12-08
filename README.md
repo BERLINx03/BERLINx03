@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abdallah<br>🔭 I’m currently working on basics and learning android<br>
+👋 Hi, I’m Abdallah<br>🔭 I’m currently learning Android SDK and DSA<br>
 
 <div align="center">
 
