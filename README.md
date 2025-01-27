@@ -1,4 +1,3 @@
-# 💫 About Me:
 <div style="display: flex; align-items: center; justify-content: center; background: #f4f4f9; border: 2px solid #ddd; border-radius: 10px; padding: 20px; font-family: Arial, sans-serif; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
   <div style="text-align: center;">
     <h1 style="margin: 0; font-size: 24px; color: #333;">👋 Hi, I’m Abdallah</h1>
