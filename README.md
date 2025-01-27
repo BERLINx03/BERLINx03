@@ -2,7 +2,7 @@
   <div style="text-align: center;">
     <h1 style="margin: 0; font-size: 24px; color: #333;">👋 Hi, I’m Abdallah</h1>
     <p style="margin: 10px 0; font-size: 16px; color: #555;">
-      🔭 I’m currently learning Android SDK, Data Structures and Algorithms (DSA), and Kotlin Multiplatform Mobile (KMP).
+      🔭 I’m currently learning Android SDK, Data Structures and Algorithms (DSA), and Kotlin Multiplatform (KMP).
     </p>
   </div>
 </div>
