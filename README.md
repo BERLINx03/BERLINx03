@@ -1,10 +1,13 @@
 # 💫 About Me:
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    👋 Hi, I’m Abdallah<br>
-    🔭 I’m currently learning Android SDK and DSA<br>
+<div style="display: flex; align-items: center; justify-content: center; background: #f4f4f9; border: 2px solid #ddd; border-radius: 10px; padding: 20px; font-family: Arial, sans-serif; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="text-align: center;">
+    <h1 style="margin: 0; font-size: 24px; color: #333;">👋 Hi, I’m Abdallah</h1>
+    <p style="margin: 10px 0; font-size: 16px; color: #555;">
+      🔭 I’m currently learning Android SDK, Data Structures and Algorithms (DSA), and Kotlin Multiplatform Mobile (KMP).
+    </p>
   </div>
 </div>
+
 
 <div align="center">
 
