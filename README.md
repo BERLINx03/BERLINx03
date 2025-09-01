@@ -30,7 +30,4 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=BERLINx03&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
----
 [![](https://visitcount.itsvg.in/api?id=BERLINx03&icon=0&color=12)](https://visitcount.itsvg.in)
-
-</div>
