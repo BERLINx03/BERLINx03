@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah El-Sokkary</h1>
 <div align="center">
   <h3 style="display: inline-block; margin: 0; vertical-align: middle;">A young software engineer who's obsessed with Android OS, clean code, best practices, app architecture and every new trend in the field of Android development.</h3>
-  <a href="https://git.io/typing-svg" style="display: inline-block; vertical-align: middle;">
+  <a  style="display: inline-block; vertical-align: middle;">
     <img src="https://readme-typing-svg.demolab.com?font=Mono&weight=200&size=28&duration=2000&pause=10000&color=3DDC84&center=true&width=435&lines=Android+Developer" alt="Typing SVG" />
   </a>
 </div>
