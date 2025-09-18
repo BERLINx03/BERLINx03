@@ -7,8 +7,15 @@
 </div>
 
 
-- 💬 Ask me about **Android Development / KMP**
-- 📫 How to reach me **abdallahelsokkary4399@gmail.com**
+<p>
+  <img src="confusing.gif" alt="Logo" width="150" align="right">
+  💬 Ask me about <b>Android Development / KMP</b><br>
+  📫 How to reach me <b>abdallahelsokkary4399@gmail.com</b>
+</p>
+
+
+
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=BERLINx03&style=flat-square&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/BERLINx03?label=Followers&style=flat-square)
