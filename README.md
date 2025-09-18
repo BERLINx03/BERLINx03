@@ -8,7 +8,7 @@
 
 
 <p>
-  <img src="confusing.gif" alt="Logo" width="150" align="right">
+  <img src="confusing.gif" alt="Logo" width="180" align="right">
   💬 Ask me about <b>Android Development / KMP</b><br>
   📫 How to reach me <b>abdallahelsokkary4399@gmail.com</b>
 </p>
