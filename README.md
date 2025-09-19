@@ -34,7 +34,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 <!--![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat&logo=kotlin&logoColor=white)-->
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=BERLINx03&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-[![](https://visitcount.itsvg.in/api?id=BERLINx03&icon=0&color=12)](https://visitcount.itsvg.in)
